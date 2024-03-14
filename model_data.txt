@@ -1,0 +1,32 @@
+X1,1,Qora,2.0L,38400
+Q7,2,Oq,4.0L,54950
+Cayenne,3,Sariq,4.8L,67500
+i5,1,Qizil,2.0L,55000
+A4,2,Oq,3.0L,39100
+Macan,3,Qora,3.6L,52100
+i4,1,Yashil,2.0L,51500
+e-tron GT,2,Qora,Electric,99900
+Taycan,3,Oq,Electric,79900
+iX,1,Moviy,2.0L,83200
+SQ5,2,Sariq,3.0L,52900
+718 Cayman,3,Qora,4.0L,59900
+Suburban,4,Ko'k,6.2L,52300
+Urus,5,Sariq,4.0L,218009
+296,6,Oq,3.0L,338255
+Bolt EV,4,Qora,Electric,31000
+Huracan,5,Yashil,5.2L,208571
+Roma,6,Oq,3.9L,222620
+Trailblazer,4,Ko'k,1.3L,19000
+Aventador,5,Qora,6.5L,421321
+SF90,6,Oq,4.0L,625000
+Corvette,4,Yashil,6.2L,59900
+Sian,5,Oq,6.5LL,3700000
+Portofino,6,Sariq,3.9L,215000
+Tang,7,Qora,2.0L,35000
+Sorento,8,Qizil,3.5L,29390
+Yuan,7,Oq,1.5L,22000
+Telluride,8,Qizil,3.8L,32190
+Han,7,Moviy,Electric,40000
+EV6,8,Qora,Electric,45000
+Qin,7,Yashil,1.5L,25000
+Carnival,8,Oq,3.5L,32100

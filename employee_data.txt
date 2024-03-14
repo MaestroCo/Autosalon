@@ -1,0 +1,6 @@
+Murodjon,Maxammadjonov,+998901791234,Farg'ona shahar,murodjonali25@gmail.com,03.25.2001
+Jalil,Nosirov,+998915896587,Qo'qon shahar,jalil200@email.ru,05.12.2007
+Bakir,Anvarov,+998548962847,Andijon shahar,bakir003@email.ru,03.02.1998
+Avaz,Nodirov,+998985975298,Namangan shahar,ava003@inbox.ru,05.12.1985
+Axlimo'min,Saminov,+998952589472,Qo'qon shahar,saminov002@gmail.com,12.05.2001
+Behzod,Nosirov,+998985489324,Xorazm shahar,nosirovb004@email.ru,17.08.1999
